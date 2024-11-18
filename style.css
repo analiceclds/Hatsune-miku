@@ -1,0 +1,34 @@
+.navbar-brand img{
+    width: 150px;
+    height: 150px;
+}
+
+body{
+    background-color: rgb(54, 55, 56);
+}
+h1{
+    color: rgb(245, 68, 121);
+    padding-top: 20px;
+}
+
+h3{
+    color:rgb(245, 68, 121) ;
+}
+
+
+
+
+p{
+    font-size: 20px;
+    padding-top: 15px;
+    color: white;
+}
+
+blockquote p{
+    color: black;
+}
+
+.container{
+    padding-top: 15px;
+}
+
